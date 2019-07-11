@@ -1,19 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Yan Jin`s Blog on Yan Jin`s Blog</title>
     <link>https://keniencrief.github.io/</link>
     <description>Recent content in Yan Jin`s Blog on Yan Jin`s Blog</description>
-=======
-    <title>Mogeko`s Blog on Mogeko`s Blog</title>
-    <link>https://keniencrief.github.io/</link>
-    <description>Recent content in Mogeko`s Blog on Mogeko`s Blog</description>
->>>>>>> 7828a349d91a01f2522dc3c7f966da3b5117eb27
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
-<<<<<<< HEAD
     <item>
       <title></title>
       <link>https://keniencrief.github.io/categories/</link>
@@ -40,7 +33,5 @@
 </description>
     </item>
     
-=======
->>>>>>> 7828a349d91a01f2522dc3c7f966da3b5117eb27
   </channel>
 </rss>

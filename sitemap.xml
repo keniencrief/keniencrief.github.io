@@ -12,7 +12,6 @@
     </url>
   
     <url>
-<<<<<<< HEAD
       <loc>https://keniencrief.github.io/posts/</loc>
       
       
@@ -24,9 +23,6 @@
   
     <url>
       <loc>https://keniencrief.github.io/categories/</loc>
-=======
-      <loc>https://keniencrief.github.io/</loc>
->>>>>>> 7828a349d91a01f2522dc3c7f966da3b5117eb27
       
       
       
@@ -45,7 +41,6 @@
       
     </url>
   
-<<<<<<< HEAD
     <url>
       <loc>https://keniencrief.github.io/</loc>
       
@@ -56,6 +51,4 @@
       
     </url>
   
-=======
->>>>>>> 7828a349d91a01f2522dc3c7f966da3b5117eb27
 </urlset>
