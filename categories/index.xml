@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Categories on Yan Jin`s Blog</title>
     <link>https://keniencrief.github.io/categories/</link>
     <description>Recent content in Categories on Yan Jin`s Blog</description>
+=======
+    <title>Categories on Mogeko`s Blog</title>
+    <link>https://keniencrief.github.io/categories/</link>
+    <description>Recent content in Categories on Mogeko`s Blog</description>
+>>>>>>> 7828a349d91a01f2522dc3c7f966da3b5117eb27
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
