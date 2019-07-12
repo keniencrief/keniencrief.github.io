@@ -1,0 +1,55 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yan Jin`s Blog on Yan Jin`s Blog</title>
+    <link>https://keniencrief.github.io/</link>
+    <description>Recent content in Yan Jin`s Blog on Yan Jin`s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://keniencrief.github.io/categories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keniencrief.github.io/categories/</guid>
+      <description>&lt;p&gt;Hi,&lt;/p&gt;
+
+&lt;p&gt;what can we do now?&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s see&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;emmm&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://keniencrief.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keniencrief.github.io/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;一些想法&#34;&gt;一些想法&lt;/h1&gt;
+
+&lt;p&gt;我感觉在纽黑文这几日算是比较清闲的，没有太多负担（除了之前期末考试的成绩）。&lt;/p&gt;
+
+&lt;p&gt;最近的工作，无非是看看文献，做做实验，然后把数据处理了，再做一个PPT presentation。&lt;/p&gt;
+
+&lt;p&gt;美国的饮食比中国贵，有时候我尝试自己做饭。当然，基本是自己下面条，放点西红柿和鸡毛菜，再打一个鸡蛋。最初做的面条很难吃，但是摸索摸索，现在做的面条还可以，只是味道淡一些，加点调料就可以了。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://keniencrief.github.io/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keniencrief.github.io/posts/</guid>
+      <description>&lt;p&gt;hi&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
