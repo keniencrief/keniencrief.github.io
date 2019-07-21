@@ -1,11 +1,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yan Jin`s Blog on Yan Jin`s Blog</title>
+    <title>Yan Jin&#39;s Blog on Yan Jin&#39;s Blog</title>
     <link>https://keniencrief.github.io/</link>
-    <description>Recent content in Yan Jin`s Blog on Yan Jin`s Blog</description>
+    <description>Recent content in Yan Jin&#39;s Blog on Yan Jin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About wikipedia</title>
+      <link>https://keniencrief.github.io/2019/blog3/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keniencrief.github.io/2019/blog3/</guid>
+      <description>&lt;p&gt;维基百科国内貌似是不能访问了，不过其实还是有方法（有VPN的请忽略以下内容，虽然现在买一个VPN也并非难事，当然还有免费的途径，这里按去不表。天下哪有免费的午餐呢？）&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;中科大的网络（不过我没用过，因为是才开的）&lt;/li&gt;
+&lt;li&gt;www.wikizero.biz 以前能用，但现在貌似。。。作为国内唯一能用的镜像能撑到现在不容易了&lt;/li&gt;
+&lt;li&gt;维基旺德&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;说的很隐晦，到底是啥自己思考，我是怕这个也被封了。前提是你有一个Chrome。&lt;/p&gt;
+
+&lt;p&gt;要是某度有维基一半良心也不用这么大费周章。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>一些想法</title>
+      <link>https://keniencrief.github.io/2019/blog2/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keniencrief.github.io/2019/blog2/</guid>
+      <description>&lt;p&gt;我感觉在纽黑文这几日算是比较清闲的，没有太多负担（除了之前期末考试的成绩）。&lt;/p&gt;
+
+&lt;p&gt;最近的工作，无非是看看文献，做做实验，然后把数据处理了，再做一个PPT presentation。&lt;/p&gt;
+
+&lt;p&gt;美国的饮食比中国贵，有时候我尝试自己做饭。当然，基本是自己下面条，放点西红柿和鸡毛菜，再打一个鸡蛋。最初做的面条很难吃，但是摸索摸索，现在做的面条还可以，只是味道淡一些，加点调料就可以了。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A new title</title>
+      <link>https://keniencrief.github.io/2019/blog1/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keniencrief.github.io/2019/blog1/</guid>
+      <description>&lt;p&gt;Hello&lt;/p&gt;
+
+&lt;p&gt;This is my first blog.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -13,14 +60,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://keniencrief.github.io/categories/</guid>
-      <description>&lt;p&gt;Hi,&lt;/p&gt;
-
-&lt;p&gt;what can we do now?&lt;/p&gt;
-
-&lt;p&gt;Let&amp;rsquo;s see&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;emmm&amp;hellip;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -31,24 +71,31 @@
       <guid>https://keniencrief.github.io/about/</guid>
       <description>
 
-&lt;h1 id=&#34;一些想法&#34;&gt;一些想法&lt;/h1&gt;
+&lt;h1 id=&#34;关于此个人主页&#34;&gt;关于此个人主页&lt;/h1&gt;
 
-&lt;p&gt;我感觉在纽黑文这几日算是比较清闲的，没有太多负担（除了之前期末考试的成绩）。&lt;/p&gt;
+&lt;p&gt;你所能看到的是，这个网页似乎与github有关；你所看不到的是，这个网页背后的宏大架构叫做hugo。&lt;/p&gt;
 
-&lt;p&gt;最近的工作，无非是看看文献，做做实验，然后把数据处理了，再做一个PPT presentation。&lt;/p&gt;
+&lt;p&gt;你所能看到的是，这个网页的排版似乎比下面的这个好一些；你所看不到是，它的主题其实叫做LeaveIt。&lt;/p&gt;
 
-&lt;p&gt;美国的饮食比中国贵，有时候我尝试自己做饭。当然，基本是自己下面条，放点西红柿和鸡毛菜，再打一个鸡蛋。最初做的面条很难吃，但是摸索摸索，现在做的面条还可以，只是味道淡一些，加点调料就可以了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://keniencrief.github.io/images/ustcweb.png&#34; alt=&#34;Cannot load this image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;  &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;  &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp; &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;  &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;&amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp;   &amp;nbsp; 我就大言不惭怎么滴了&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;你所能看到的是，这个网页好像只有这么一个版式（主题）；你所看不到的是，这个网页可以被所有者切换为N种版式。&lt;/p&gt;
+
+&lt;p&gt;你所能看到的是，这个网页的源是由html语言和js写的（我怕说代码会被学计算机的骂），甚至再仔细一点（或者你有一点网页的基本知识），可以看到css文件；但你所看不到的是，我写这个网页的时候只用了md（Markdown）语言。&lt;/p&gt;
+
+&lt;p&gt;这个网页只是为了自己好玩儿，以及分享一点自己的经历和知识。若有侵权，请联系删除；若要交流，随时联系。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://keniencrief.github.io/posts/</link>
+      <link>https://keniencrief.github.io/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://keniencrief.github.io/posts/</guid>
-      <description>&lt;p&gt;hi&lt;/p&gt;
-</description>
+      <guid>https://keniencrief.github.io/tags/</guid>
+      <description></description>
     </item>
     
   </channel>

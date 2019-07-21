@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on Yan Jin&#39;s Blog</title>
+    <link>https://keniencrief.github.io/categories/thoughts/</link>
+    <description>Recent content in Thoughts on Yan Jin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://keniencrief.github.io/categories/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>一些想法</title>
+      <link>https://keniencrief.github.io/2019/blog2/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keniencrief.github.io/2019/blog2/</guid>
+      <description>我感觉在纽黑文这几日算是比较清闲的，没有太多负担（除了之前期末考试的成绩）。 最近的工作，无非是看看文献，做做实验，然后把数据处理了，再做一个</description>
+    </item>
+    
+  </channel>
+</rss>

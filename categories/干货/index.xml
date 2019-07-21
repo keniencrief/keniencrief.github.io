@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>干货 on Yan Jin&#39;s Blog</title>
+    <link>https://keniencrief.github.io/categories/%E5%B9%B2%E8%B4%A7/</link>
+    <description>Recent content in 干货 on Yan Jin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://keniencrief.github.io/categories/%E5%B9%B2%E8%B4%A7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About wikipedia</title>
+      <link>https://keniencrief.github.io/2019/blog3/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keniencrief.github.io/2019/blog3/</guid>
+      <description>维基百科国内貌似是不能访问了，不过其实还是有方法（有VPN的请忽略以下内容，虽然现在买一个VPN也并非难事，当然还有免费的途径，这里按去不表</description>
+    </item>
+    
+  </channel>
+</rss>

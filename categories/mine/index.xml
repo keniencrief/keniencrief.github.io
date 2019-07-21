@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mine on Yan Jin&#39;s Blog</title>
+    <link>https://keniencrief.github.io/categories/mine/</link>
+    <description>Recent content in Mine on Yan Jin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://keniencrief.github.io/categories/mine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A new title</title>
+      <link>https://keniencrief.github.io/2019/blog1/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keniencrief.github.io/2019/blog1/</guid>
+      <description>Hello
+This is my first blog.</description>
+    </item>
+    
+  </channel>
+</rss>
