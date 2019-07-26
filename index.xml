@@ -222,15 +222,6 @@
     
     <item>
       <title></title>
-      <link>https://keniencrief.github.io/categories/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://keniencrief.github.io/categories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://keniencrief.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -253,15 +244,6 @@
 
 &lt;p&gt;这个网页只是为了自己好玩儿，以及分享一点自己的经历和知识。若有侵权，请联系删除；若要交流，随时联系。&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://keniencrief.github.io/tags/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://keniencrief.github.io/tags/</guid>
-      <description></description>
     </item>
     
   </channel>
