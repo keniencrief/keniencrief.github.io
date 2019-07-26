@@ -6,15 +6,33 @@
     <description>Recent content in Categories on Yan Jin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 21 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://keniencrief.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Mine</title>
+      <link>https://keniencrief.github.io/categories/mine/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keniencrief.github.io/categories/mine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://keniencrief.github.io/categories/tech/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keniencrief.github.io/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>所见略闻</title>
       <link>https://keniencrief.github.io/categories/%E6%89%80%E8%A7%81%E7%95%A5%E9%97%BB/</link>
-      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://keniencrief.github.io/categories/%E6%89%80%E8%A7%81%E7%95%A5%E9%97%BB/</guid>
       <description></description>
@@ -26,24 +44,6 @@
       <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://keniencrief.github.io/categories/thoughts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>干货</title>
-      <link>https://keniencrief.github.io/categories/%E5%B9%B2%E8%B4%A7/</link>
-      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://keniencrief.github.io/categories/%E5%B9%B2%E8%B4%A7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mine</title>
-      <link>https://keniencrief.github.io/categories/mine/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://keniencrief.github.io/categories/mine/</guid>
       <description></description>
     </item>
     

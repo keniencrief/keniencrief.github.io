@@ -4,7 +4,19 @@
     <url>
       <loc>https://keniencrief.github.io/categories/</loc>
       
-      <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+      <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://keniencrief.github.io/categories/mine/</loc>
+      
+      <lastmod>2019-07-24T00:00:00+00:00</lastmod>
       
       
       
@@ -16,7 +28,19 @@
     <url>
       <loc>https://keniencrief.github.io/posts/</loc>
       
-      <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+      <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://keniencrief.github.io/categories/tech/</loc>
+      
+      <lastmod>2019-07-24T00:00:00+00:00</lastmod>
       
       
       
@@ -28,7 +52,7 @@
     <url>
       <loc>https://keniencrief.github.io/</loc>
       
-      <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+      <lastmod>2019-07-24T00:00:00+00:00</lastmod>
       
       
       
@@ -38,13 +62,43 @@
     </url>
   
     <url>
+      <loc>https://keniencrief.github.io/2019/blog7/</loc>
+      
+      <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://keniencrief.github.io/2019/blog6/</loc>
+      
+      <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
       <loc>https://keniencrief.github.io/categories/%E6%89%80%E8%A7%81%E7%95%A5%E9%97%BB/</loc>
       
-      <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+      <lastmod>2019-07-24T00:00:00+00:00</lastmod>
       
       
       
       <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://keniencrief.github.io/2019/blog5/</loc>
+      
+      <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+      
+      
       
       
     </url>
@@ -92,18 +146,6 @@
     </url>
   
     <url>
-      <loc>https://keniencrief.github.io/categories/%E5%B9%B2%E8%B4%A7/</loc>
-      
-      <lastmod>2019-07-14T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>https://keniencrief.github.io/2019/blog1/</loc>
       
       <lastmod>2019-07-12T00:00:00+00:00</lastmod>
@@ -115,18 +157,6 @@
   
     <url>
       <loc>https://keniencrief.github.io/tags/hugo/</loc>
-      
-      <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://keniencrief.github.io/categories/mine/</loc>
       
       <lastmod>2019-07-12T00:00:00+00:00</lastmod>
       
