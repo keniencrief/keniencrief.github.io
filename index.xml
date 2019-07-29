@@ -5,8 +5,26 @@
     <description>Recent content in Yan Jin&#39;s Blog on Yan Jin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>资本主义的体育馆</title>
+      <link>https://keniencrief.github.io/2019/blog8/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keniencrief.github.io/2019/blog8/</guid>
+      <description>&lt;p&gt;办了耶鲁体育馆的会员，感觉被坑了一丢丢（比同学办的要贵一点）。&lt;/p&gt;
+
+&lt;p&gt;不过里面的场地确实很好，至少我没在这种场地上打过球。&lt;/p&gt;
+
+&lt;p&gt;唯一可惜的是游泳馆没开，否则真的是物超所值了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://keniencrief.github.io/images/blog8/gym1.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://keniencrief.github.io/images/blog8/gym2.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>人生的面</title>
@@ -240,38 +258,10 @@
 
 &lt;p&gt;你所能看到的是，这个网页好像只有这么一个版式（主题）；你所看不到的是，这个网页可以被所有者切换为N种版式。&lt;/p&gt;
 
-&lt;p&gt;你所能看到的是，这个网页的源是由html语言和js写的（我怕说代码会被学计算机的骂），甚至再仔细一点（或者你有一点网页的基本知识），可以看到css文件；但你所看不到的是，我写这个网页的时候只用了md（Markdown）语言。&lt;/p&gt;
+&lt;p&gt;你所能看到的是，这个网页的源是由html语言和js写的（我怕说代码会被学计算机的骂），甚至再仔细一点（或者你有一点网页的基本知识），可以看到css文件；但你所看不到的是，写这个网页的时候只用了md（Markdown）语言。&lt;/p&gt;
 
 &lt;p&gt;这个网页只是为了自己好玩儿，以及分享一点自己的经历和知识。若有侵权，请联系删除；若要交流，随时联系。&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://keniencrief.github.io/categories/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://keniencrief.github.io/categories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://keniencrief.github.io/posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://keniencrief.github.io/posts/</guid>
-      <description>&lt;p&gt;Hello&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://keniencrief.github.io/tags/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://keniencrief.github.io/tags/</guid>
-      <description></description>
     </item>
     
   </channel>
